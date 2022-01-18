@@ -11,7 +11,7 @@ and more readable. Experimental, but seems to work in most common cases.
 git clone https://github.com/norech/vgdiag.git
 cd vgdiag
 chmod +x vgdiag.py
-ln -s vgdiag.py /usr/local/bin/vgdiag
+ln -rs vgdiag.py /usr/bin/vgdiag
 ```
 
 ## Usage
